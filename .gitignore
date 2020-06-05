@@ -15,6 +15,3 @@
 # vendor/
 .vscode/
 .idea
-
-# myconfig
-mp3-trans/myconfig.go
